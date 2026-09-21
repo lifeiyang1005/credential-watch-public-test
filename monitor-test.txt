@@ -1,0 +1,3 @@
+project=credential-watch-public-test
+stage=baseline
+message=controlled synthetic test
