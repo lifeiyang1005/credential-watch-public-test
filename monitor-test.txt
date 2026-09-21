@@ -1,3 +1,6 @@
 project=credential-watch-public-test
-stage=baseline
-message=controlled synthetic test
+stage=synthetic-exposure
+
+api_key=CW_LAB_ONLY_API_7mQ2v9K4p6R8
+client_secret=CW_LAB_ONLY_OAUTH_8nW3x5J9t2L6
+db_password=CW_LAB_ONLY_DB_4hV8s2F6k9P3
