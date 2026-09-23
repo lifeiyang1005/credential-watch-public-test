@@ -1,4 +1,5 @@
-stage=synthetic-exposure-v07
-api_key=CW_LAB_ONLY_V07_API_4rT8m2Q6p9K3
-client_secret=CW_LAB_ONLY_V07_OAUTH_7nV3x5J9t2L4
-DB_PASSWORD=CW_LAB_ONLY_V07_DB_9hW4s2F6k8P3
+project=credential-watch-public-test
+stage=synthetic-exposure-v08
+api_key=CW_LAB_ONLY_V08_API_6pN4r8T2m9Q5
+client_secret=CW_LAB_ONLY_V08_OAUTH_3kJ7s2V9w4L6
+DB_PASSWORD=CW_LAB_ONLY_V08_DB_5hR8n2F6q9P4
