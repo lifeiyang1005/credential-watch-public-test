@@ -5,3 +5,4 @@ client_secret=CW_LAB_ONLY_V080_OAUTH_4kT9m2Q6p8R3
 db_password=CW_LAB_ONLY_V080_DB_2vN7s5J9q4L6
 ssh_user=lab_operator
 ssh_password=CW_LAB_ONLY_V080_SSH_5wH8d3F7j2P9
+feed_trial=v081
