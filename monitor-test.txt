@@ -6,3 +6,4 @@ db_password=CW_LAB_ONLY_V080_DB_2vN7s5J9q4L6
 ssh_user=lab_operator
 ssh_password=CW_LAB_ONLY_V080_SSH_5wH8d3F7j2P9
 feed_trial=v081
+api_key=CW_LAB_ONLY_V082_TRI_7qM4r8T2p6K9
